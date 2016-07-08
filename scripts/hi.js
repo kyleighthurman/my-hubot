@@ -1,6 +1,6 @@
 // Commands:
 // hi - Hubot will respond with "Hello, from Krit!"
-// hubot bye - Hubot will respond with "Goodbye, from Krit!"
+// hubot bye - Hubot will respond with "Goodbye, from Krit!"/
 
 module.exports = function(robot) {
 
